@@ -3,7 +3,8 @@
 
 This repository contains the major MATLAB analysis scripts developed to support the analysis of the Causal Stimulation Effects of the Anterior Cingulate Cortex (ACC) and Striatum. These analyses are associated with the manuscript:
 
-** Adaptive Reinforcement Learning is Causally Supported by Anterior Cingulate Cortex and Striatum **
+### Adaptive Reinforcement Learning is Causally Supported by Anterior Cingulate Cortex and Striatum 
+Currently found: https://www.biorxiv.org/content/10.1101/2024.06.12.598723v2
 
 ## Data Files
 
